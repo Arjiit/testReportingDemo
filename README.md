@@ -1,2 +1,2 @@
-# frameworks2015
+# Visualizing data from Mongo
 Frameworks elective
