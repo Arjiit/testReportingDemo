@@ -1,0 +1,16 @@
+<div class="col-md-4" ng-repeat="product in products">
+	<div class="panel panel-primary">
+		<div class="panel-heading">{{product.name}}</div>
+		
+		<div class="panel-body">
+				<h4>
+					Price: 
+				</h4>
+				{{ product.price }} DKK.
+				<div>
+					<button class="btn btn-primary" ng-click="buyme(product)">Buy me</button>
+				</div>
+		</div>
+
+	</div>
+</div>
