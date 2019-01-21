@@ -12,3 +12,5 @@ Inside the project- Run npm install.
 Setup MongoDB - Insert demo data by running 'node datainit.js' present in /testReportingDemo/frameworks2015/app/src/server/datainit.js
 
 Visualize the data using D3.
+
+![chartimage](https://github.com/Arjiit/testReportingDemo/blob/master/app/chart/test.png)
