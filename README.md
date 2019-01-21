@@ -18,4 +18,4 @@ Visualize the data using D3.
 Other Libraries to Try out:
 
 - HighCharts (https://www.highcharts.com)
-- Some good stuff to visualize data here too: (https://www.google.com/search?client=safari&rls=en&q=visualizing+data+reddit&ie=UTF-8&oe=UTF-8)
+- Some good stuff to visualize data here too: (https://www.reddit.com/r/dataisbeautiful/)
