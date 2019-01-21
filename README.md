@@ -6,6 +6,9 @@ For demonstration, I am using test data stored in MongoDB for visualization. How
 AngularJS on the client side. NodeJS and Express running on the server and mongoDB as database. Connnecting from Connecting from Node to database is using the mongoose module.
 
 Clone the project.
+
 Inside the project- Run npm install.
+
 Setup MongoDB - Insert demo data by running 'node datainit.js' present in /testReportingDemo/frameworks2015/app/src/server/datainit.js
+
 Visualize the data using D3.
