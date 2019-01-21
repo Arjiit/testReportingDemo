@@ -3,7 +3,7 @@
 This is a short project to experiment different visulaization libraries. To start with, I've used D3.js - a javascript library for manipulating documents based on data.
 For demonstration, I am using test data stored in MongoDB for visualization. However, this source can be any other data input including data from csv, tsv etc.
 
-AngularJS on the client side. NodeJS and Express running on the server and mongoDB as database. Connnecting from Connecting from Node to database is using the mongoose module.
+AngularJS on the client side. NodeJS and Express running on the server and mongoDB as database. Connecting from Node to database is using the mongoose module.
 
 Clone the project.
 
